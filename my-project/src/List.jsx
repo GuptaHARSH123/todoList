@@ -91,6 +91,8 @@ function List() {
                                     className=" px-2 py-2 border rounded-2xl  font-bold text-lg hover:border-yellow-500"
                                     onClick={function () {
                                         setIsBlank(false);
+
+                                        
                                     }}
                                 >Cancle</button>
                             </div>
